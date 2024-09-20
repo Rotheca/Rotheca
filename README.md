@@ -1,6 +1,7 @@
-<div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDJxajVjeWd0MzcxZnZ4MzM1bWV5djRqbmd3dXFoNmppbTZibW5kdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif" width="100"/>
-</div>
+<h1 style="color:blue">
+   Welcome to my github!
+  
+</h1>
 
 
 
