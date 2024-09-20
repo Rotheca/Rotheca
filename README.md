@@ -1,7 +1,19 @@
-<h1 style="color:blue">
+h1 {
+  display: block;
+  font-size: 1em;
+  margin-top: 1.33em;
+  margin-bottom: 1.33em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+}
+
+<h1>
    Welcome to my github!
   
 </h1>
+
+
 
 
 
